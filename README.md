@@ -29,16 +29,11 @@ To install and run this demo application, follow these steps:
    go mod tidy
    ```
 
-3. Build the application:
-   ```sh
-   go build -o hystrix-demo
-   ```
-
 ## Usage
 
 To run the demo application, use the following command:
 ```sh
-./hystrix-demo
+go run .\cmd\server\main.go
 ```
 
 You can then access the application at `http://localhost:8080`. The application provides endpoints to demonstrate the circuit breaker in action.
