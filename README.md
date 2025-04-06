@@ -8,8 +8,7 @@ This repository contains a demo application showcasing the use of the Hystrix ci
 - [Installation](#installation)
 - [Usage](#usage)
 - [Hystrix Dashboard](#hystrix-dashboard)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
